@@ -23,7 +23,7 @@ Nel progetto ho lavorato come Sr. Alteryx Developer per MavenData, un'azienda ch
 - Clona questo repository:
   
 git clone https://github.com/Matteojk95/Customer_analysis.git
-cd Alteryx-Project
+cd Customer_analysis
 
 - Apri il file .yxmd con Alteryx Designer
 - Verifica che i dataset di input siano nella cartella data/
